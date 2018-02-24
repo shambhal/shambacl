@@ -1,9 +1,15 @@
 # acl.js
 
-Just like [ruby's Abbrev](http://apidock.com/ruby/Abbrev).
+
 
 Usage:
 
    var acl=require('acl')
+if you want to protect some urls i.e authenticate then do sth then use it 
+#for instance you want to have all urls having users  url should have access control list
+acl=require('acl');
+app.all('/users/*',acl.middleware);
 
-This is handy for command-line scripts, or other cases where you want to be able to accept shorthands.
+for more details contact at shambhalnetwork@gmail.com
+
+
