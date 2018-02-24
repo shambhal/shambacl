@@ -1,0 +1,22 @@
+{
+  "name": "acl",
+  "version": "1.0.0",
+  "description": "access control list ",
+  "main": "index.js",
+  "keywords": [
+    "acl"
+  ],
+  "author": "shambhal <shambhalnetworks@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shambhal/acl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shambhal/acl/issues"
+  },
+  "homepage": "https://github.com/shambhal/acl#readme"
+}
