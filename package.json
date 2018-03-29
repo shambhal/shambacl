@@ -1,10 +1,10 @@
 {
-  "name": "acl",
-  "version": "1.0.0",
+  "name": "shambacl",
+  "version": "1.0.2",
   "description": "access control list ",
   "main": "index.js",
   "keywords": [
-    "acl"
+    "shambacl"
   ],
   "author": "shambhal <shambhalnetworks@gmail.com>",
   "license": "ISC",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shambhal/shambacl.git"
+    "url": "https://github.com/shambhal/shambacl.git"
   },
   "bugs": {
     "url": "https://github.com/shambhal/shambacl/issues"
