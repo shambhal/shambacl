@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shambhal/acl.git"
+    "url": "git+https://github.com/shambhal/shambacl.git"
   },
   "bugs": {
-    "url": "https://github.com/shambhal/acl/issues"
+    "url": "https://github.com/shambhal/shambacl/issues"
   },
-  "homepage": "https://github.com/shambhal/acl#readme"
+  "homepage": "https://github.com/shambhal/shambacl#readme"
 }
